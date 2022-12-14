@@ -1,7 +1,8 @@
-  # Implementating Machine Learning Algorithms on Boston House Prices Datset
 
-## Linear Regression
+# Predicting Temperature using Algerian Forest Fire Dataset
 
-    Ridge Regression
-    Lasso Regression
-    Elastic Regression also Implemented.
+##Machine Learning Algorithms Implemented
+Linear Regression
+Ridge Regression
+Lasso Regression
+Elastic Net Regression
