@@ -1,7 +1,7 @@
 
 # Predicting Temperature using Algerian Forest Fire Dataset
 
-##Machine Learning Algorithms Implemented
+## Machine Learning Algorithms Implemented
 Linear Regression
 Ridge Regression
 Lasso Regression
